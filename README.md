@@ -6,4 +6,4 @@
 - ncurses
 # Сборка
 Можно собрать консольной командой:  
-g++ Map.h Map.cpp main.cpp -lncurses
+`g++ Map.h Map.cpp main.cpp -lncurses`
