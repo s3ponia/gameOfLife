@@ -5,4 +5,5 @@
 Необходимые библиотеки:  
 - ncurses
 # Сборка
-Можно собрать консольной командой: g++ Map.h Map.cpp main.cpp -lncurses
+Можно собрать консольной командой:  
+g++ Map.h Map.cpp main.cpp -lncurses
