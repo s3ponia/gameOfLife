@@ -1,9 +1,10 @@
 # gameOfLife
-Простая консольная реализация игры "Жизнь".  
+Простая консольная реализация игры "Жизнь". 
+![Image of start menu]
+(https://github.com/s3ponia/gameOfLife/images/startmenu.png)
 Основная логика реализована в классе Map.
 # Установка
 Необходимые библиотеки:  
 - ncurses
 # Сборка
-Можно собрать консольной командой:  
-`g++ Map.h Map.cpp main.cpp -lncurses`
+Можно собрать с помощью `make`
