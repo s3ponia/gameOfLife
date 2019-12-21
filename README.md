@@ -1,7 +1,7 @@
 # gameOfLife
 Простая консольная реализация игры "Жизнь". 
 ![Image of start menu]
-(https://github.com/s3ponia/gameOfLife/images/startmenu.png)
+(https://github.com/s3ponia/gameOfLife/blob/master/images/startmenu.png)
 Основная логика реализована в классе Map.
 # Установка
 Необходимые библиотеки:  
